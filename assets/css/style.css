@@ -736,4 +736,16 @@ footer .social-links {
     footer p {
         margin-bottom: 0;
     }
+}.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.logo-vika {
+  color: #212529; /* чёрный */
+}
+
+.logo-boss {
+  color: #00856F; /* зелёный */
 }
