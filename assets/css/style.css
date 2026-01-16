@@ -749,3 +749,19 @@ footer .social-links {
 .logo-boss {
   color: #00856F; /* зелёный */
 }
+.logo {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #212529;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.logo-vika {
+  color: #212529;
+}
+
+.logo-boss {
+  color: #00856F;
+}
